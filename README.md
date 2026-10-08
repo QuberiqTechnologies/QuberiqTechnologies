@@ -8,11 +8,10 @@
 
 We build scalable digital products, high-performance websites, eCommerce platforms, custom software, business systems, APIs, payment infrastructure, and intelligent automation.
 
-[![Website](https://img.shields.io/badge/Website-quberiqtechnologies.com-222938?style=for-the-badge&logo=googlechrome&logoColor=white)](https://quberiqtechnologies.com/)
+[![Website](https://img.shields.io/badge/Website-Quberiq%20Technologies-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://quberiqtechnologies.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Quberiq%20Technologies-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/quberiq-technologies/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40quberiqtechnologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quberiqtechnologies)
-[![Email](https://img.shields.io/badge/Email-contact%40quberiqtechnologies.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@quberiqtechnologies.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%40QuberiqTechnologies-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuberiqTechnologies)
+[![Instagram](https://img.shields.io/badge/Instagram-@quberiqtechnologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quberiqtechnologies)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@quberiqtechnologies.com)
 
 </div>
 
@@ -54,14 +53,14 @@ Our work combines engineering, integrations, automation, design, and business un
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" title="WordPress" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/woocommerce/96588A" alt="WooCommerce" title="WooCommerce" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/shopify/95BF47" alt="Shopify" title="Shopify" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/webflow/146EF5" alt="Webflow" title="Webflow" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/framer/FFFFFF" alt="Framer" title="Framer" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/elementor/92003B" alt="Elementor" title="Elementor" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/gutenberg/FFFFFF" alt="Gutenberg" title="Gutenberg" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/shopify/95BF47" alt="Liquid" title="Liquid" width="44" height="44" />
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Gutenberg](https://img.shields.io/badge/Gutenberg-077CB2?style=for-the-badge&logo=gutenberg&logoColor=white)
+![Liquid](https://img.shields.io/badge/Shopify%20Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 </div>
 
@@ -69,17 +68,17 @@ Our work combines engineering, integrations, automation, design, and business un
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" title="CSS3" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" title="Next.js" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" title="Angular" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" title="Bootstrap" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/sass/CC6699" alt="SASS" title="SASS" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery" title="jQuery" width="44" height="44" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 </div>
 
@@ -87,18 +86,18 @@ Our work combines engineering, integrations, automation, design, and business un
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" title="PHP" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js" title="Express.js" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" title="NestJS" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" title="Django" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" title=".NET" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/sharp/9B4F96" alt="C#" title="C#" width="44" height="44" />
-<img src="./assets/stack/rest-api.svg" alt="REST API" title="REST API" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="OpenAPI" title="OpenAPI" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" width="44" height="44" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -106,18 +105,18 @@ Our work combines engineering, integrations, automation, design, and business un
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/mariadb/C0765A" alt="MariaDB" title="MariaDB" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" title="SQLite" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" title="Supabase" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" title="Firebase" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" title="AWS" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" title="Azure" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" title="Vercel" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" title="Apache" width="44" height="44" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
 </div>
 
@@ -125,18 +124,18 @@ Our work combines engineering, integrations, automation, design, and business un
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" title="GitHub Actions" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" title="GitLab" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/playwright/2EAD33" alt="Playwright" title="Playwright" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/cypress/69D3A7" alt="Cypress" title="Cypress" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" title="Figma" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Adobe Photoshop" title="Adobe Photoshop" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Adobe Illustrator" title="Adobe Illustrator" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" width="44" height="44" />
-<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" alt="Adobe After Effects" title="Adobe After Effects" width="44" height="44" />
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 </div>
 
@@ -144,17 +143,15 @@ Our work combines engineering, integrations, automation, design, and business un
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" title="Stripe" width="44" height="44" />
-<img src="./assets/stack/api-integrations.svg" alt="API Integrations" title="API Integrations" width="44" height="44" />
-<img src="./assets/stack/payment-integrations.svg" alt="Payment Integrations" title="Payment Integrations" width="44" height="44" />
-<img src="./assets/stack/ach-payments.svg" alt="ACH Payments" title="ACH Payments" width="44" height="44" />
-<img src="./assets/stack/saas.svg" alt="SaaS" title="SaaS" width="44" height="44" />
-<img src="./assets/stack/fintech.svg" alt="FinTech" title="FinTech" width="44" height="44" />
-<img src="./assets/stack/ai-automation.svg" alt="AI Automation" title="AI Automation" width="44" height="44" />
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![APIs](https://img.shields.io/badge/API%20Integrations-111111?style=for-the-badge&logo=icloud&logoColor=white)
+![Payments](https://img.shields.io/badge/Payment%20Integrations-1f6feb?style=for-the-badge&logo=visa&logoColor=white)
+![ACH](https://img.shields.io/badge/ACH%20Payments-0052CC?style=for-the-badge&logo=wise&logoColor=white)
+![SaaS](https://img.shields.io/badge/SaaS-111111?style=for-the-badge&logo=icloud&logoColor=white)
+![FinTech](https://img.shields.io/badge/FinTech-0A66C2?style=for-the-badge&logo=coinbase&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-111111?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
-
-<!-- Each technology/capability from the original stack is retained. Official brand logos are served by Simple Icons; generic capability tiles are bundled locally. -->
 
 ---
 
@@ -188,11 +185,11 @@ Muhammad Abdullah brings **6+ years of web development experience** across WordP
 
 His experience also spans **API integrations, card and ACH payment workflows, SaaS and custom software projects, technical troubleshooting, performance optimization, business development, lead generation, B2B sales, client acquisition, project discovery, and client relationship management**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdullah.quberiqtechnologies.com-222938?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdullah.quberiqtechnologies.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdullah.quberiqtechnologies.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-abdullah-awan/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40abdullah.awan_521-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullah.awan_521)
-[![Email](https://img.shields.io/badge/Email-abdullah%40quberiqtechnologies.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah@quberiqtechnologies.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%40MAbdullahAwan-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAbdullahAwan)
+[![Instagram](https://img.shields.io/badge/Instagram-@abdullah.awan__521-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullah.awan_521)
+[![Email](https://img.shields.io/badge/Email-Let's%20Collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah@quberiqtechnologies.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@MAbdullahAwan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAbdullahAwan)
 
 </div>
 
